@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/cjswo198/my_app#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.10"
   }
 }
